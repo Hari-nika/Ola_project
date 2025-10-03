@@ -1,5 +1,5 @@
 # Ola_project
-SQL Questions
+**SQL Questions**
 1. Retrieve all successful bookings:
 2. Find the average ride distance for each vehicle type:
 3. Get the total number of cancelled rides by customers:
@@ -10,3 +10,12 @@ SQL Questions
 8. Find the average customer rating per vehicle type:
 9. Calculate the total booking value of rides completed successfully:
 10.List all incomplete rides along with the reason
+
+**Power BI Questions**
+1. Ride Volume Over Time
+2. Booking Status Breakdown
+3. Top 5 Vehicle Types by Ride Distance
+4. Average Customer Ratings by Vehicle Type
+5. Canceled Rides Reasons
+6. Revenue by Payment Method
+
